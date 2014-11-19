@@ -1,4 +1,15 @@
-lazy-facebook
-=============
+# Lazy Forms
+A jQuery plugin for the Facebook JavaScript SDK.
 
-A jQuery plugin for the Facebook SDK.
+## Compiling from source
+- Clone this repo
+- Run `npm install`
+- Run `gulp`
+
+## Dependencies
+- jQuery >= 1.4
+
+## Usage
+
+## To do
+- Everything
