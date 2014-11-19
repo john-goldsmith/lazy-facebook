@@ -1,4 +1,4 @@
-# Lazy Forms
+# Lazy Facebook
 A jQuery plugin for the Facebook JavaScript SDK.
 
 ## Compiling from source
